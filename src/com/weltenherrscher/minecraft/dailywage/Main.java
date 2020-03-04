@@ -9,7 +9,7 @@ package com.weltenherrscher.minecraft.dailywage;
 *
 *  Source:
 *  https://github.com/Dennis1000/DailyWage 
-*/ 
+*/
 
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.command.Command;
@@ -216,9 +216,10 @@ public class Main extends JavaPlugin {
 	public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
 		// Check for wage-command
-		if (!command.getName().equalsIgnoreCase("dailywage"))
+		if (!command.getName().equalsIgnoreCase("wage") && !command.getName().equalsIgnoreCase("wage")
+				&& !command.getName().equalsIgnoreCase("dailywage") && !command.getName().equalsIgnoreCase("salaire"))
 			return false;
-		
+
 		// Find local player
 		Player player = getLocalPlayer(sender);
 

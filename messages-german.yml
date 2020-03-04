@@ -1,0 +1,8 @@
+Messages:
+  WrongPassword: '&cFalsches Passwort!'
+  UsageWithPasswordSet: '&cBenutzung: &f{command} <passwort> [zielperson]'
+  PlayerNotFound: '&cDer Spieler &e{player}&c wurde nicht gefunden!'
+  NoCoinSystem: '&cKeine Verbindung zum Coinsystem!'
+  AlreadyFetched: '&cDu hast heute deinen Lohn bereits abgeholt!'
+  YourWage: '&aDein Lohn beträgt &e{wage} Coins&a für {days} Tage'
+  CoinBalance: '&fDu hast jetzt &e{coins} Coins'
