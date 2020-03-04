@@ -1,0 +1,13 @@
+name: DailyWage
+author: Weltenherrscher
+website: https://github.com/Dennis1000/DailyWage
+version: 1.0.1
+depend: [DKCoins]
+main: com.weltenherrscher.minecraft.dailywage.Main
+description: A daily wage plugin (needs DKCoins)
+
+commands:
+     wage:
+          description: 'Daily wage payout'
+          usage: 'wage [password] [target]'
+          aliases: [lohn, salaire]
