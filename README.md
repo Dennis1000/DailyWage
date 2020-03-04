@@ -11,7 +11,7 @@ For discussion visit
 
  1. Install and configure [DKCoins](https://github.com/DevKrieger/DKCoins)
  2. Download the current DailyWage version from SpigotMC
- 3. Put the plugin `DailyWage v1.0.1.jar` in your plugin folder (ignore any other files in the `.zip` file!).
+ 3. Put the plugin `DailyWage.jar` in your plugin folder (ignore any other files in the `.zip` file!).
  4. Restart your server.
 
 ## Configuration
