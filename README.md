@@ -18,10 +18,10 @@ For discussion visit
 
 After running the plugin on your server a `config.yml` file is created in the plugin folder. Adjust these settings to your needs:
 
-`CoinsPerDay:` the amount of coins payed as the daily wage (default `1`)
-`Password:` set a password for the command, use digits 0-9 and the letters a/A to z/Z only (default `empty`)
-`BackPayment Enable:` set it to `true` to back pay the wage since last pay out (default `true`)
-`BackPayment MaxDays:` maximum days for back payment since last pay out (default `100`)
+- `CoinsPerDay:` the amount of coins payed as the daily wage (default `1`)
+- `Password:` set a password for the command, use digits 0-9 and the letters a/A to z/Z only (default `empty`)
+- `BackPayment Enable:` set it to `true` to back pay the wage since last pay out (default `true`)
+- `BackPayment MaxDays:` maximum days for back payment since last pay out (default `100`)
 
 *Restart your server after changing any of those values*!
 
